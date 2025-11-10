@@ -1,5 +1,13 @@
-# semillero-aventura-web
-esto es un semillero de consutorio de Aventuraweb donde construiremos un pequeño juego donde nos de las bases del desarrollo web
+🐍 Semillero Snake++
 
-## David Gutierrez Pineda 
-Esto lo personalizaremos luego 
+¡Bienvenido al Semillero Snake!
+En este proyecto construiremos una simulación avanzada del clásico juego Snake, aprendiendo los fundamentos del desarrollo web y la lógica de videojuegos interactivos. 🚀🎮
+
+👨‍💻 Autor
+
+David Gutiérrez Pineda
+
+.
+
+🕹️ Recursos del Proyecto
+En esta sección encontrarás la simulación de Snake creada durante el semillero, lista para probar y explorar su funcionamiento. 🟩🟨
